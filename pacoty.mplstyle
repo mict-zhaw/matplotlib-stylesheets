@@ -33,3 +33,6 @@ ytick.minor.size: 0
 font.sans-serif: Gotham, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
 axes.prop_cycle: cycler('color', ['5A5B9F', 'D94F70', '009473', 'F0C05A', '7BC4C4', 'FF6F61'])
 image.cmap: RdPu
+
+# Title padding
+axes.titlepad: 12
